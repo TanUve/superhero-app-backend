@@ -1,0 +1,6 @@
+PATCH http://localhost:3001/superheroes/22
+Content-Type: application/json
+
+  {
+    "name": "Tara"
+  }

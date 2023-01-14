@@ -1,0 +1,4 @@
+GET http://localhost:3001/superheroes
+
+####
+GET http://localhost:3001/superheroes/22

@@ -1,0 +1,12 @@
+
+POST http://localhost:3001/superheroes
+  Content-Type: application/json
+
+  {
+    "name": "Tara",
+    "publisher": "DC Comics",
+    "alter_ego": "Jaime Cobo",
+    "first_appearance": "Diciembre 2012",
+    "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/H9v5o8vP6RKkQtR77LIGrGDE.png",
+    "characters": "Novio"
+  }
